@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vossle-V2-react-version/static/css/main.2280e52e.css",
+    "main.js": "/Vossle-V2-react-version/static/js/main.8acc318e.js",
+    "static/media/test.png": "/Vossle-V2-react-version/static/media/test.d20108e54c7a04ff4857.png",
+    "static/media/MagicPortal.glb": "/Vossle-V2-react-version/static/media/MagicPortal.583c15c1c2f6f123a595.glb",
+    "static/media/CardImage3.png": "/Vossle-V2-react-version/static/media/CardImage3.df089e27f46d78c026d3.png",
+    "static/media/CardImage2.png": "/Vossle-V2-react-version/static/media/CardImage2.4eb3348a314306d758e2.png",
+    "static/media/markerless3.png": "/Vossle-V2-react-version/static/media/markerless3.19b400cbfe4672db2812.png",
+    "static/media/logo.png": "/Vossle-V2-react-version/static/media/logo.e28c5875f0b98db5dee6.png",
+    "static/media/markerless4.png": "/Vossle-V2-react-version/static/media/markerless4.e5aff1d93c2e298d10ca.png",
+    "static/media/markerless2.png": "/Vossle-V2-react-version/static/media/markerless2.5348ba1d96ccd96b8a5d.png",
+    "static/media/Key1.png": "/Vossle-V2-react-version/static/media/Key1.ed544a41a6787eaf657f.png",
+    "static/media/markerless1.png": "/Vossle-V2-react-version/static/media/markerless1.92f84fe8c5465f30c568.png",
+    "index.html": "/Vossle-V2-react-version/index.html",
+    "main.2280e52e.css.map": "/Vossle-V2-react-version/static/css/main.2280e52e.css.map",
+    "main.8acc318e.js.map": "/Vossle-V2-react-version/static/js/main.8acc318e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2280e52e.css",
+    "static/js/main.8acc318e.js"
+  ]
+}
